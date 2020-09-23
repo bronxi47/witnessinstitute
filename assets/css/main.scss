@@ -2,5 +2,15 @@
 # Use a comment to ensure Jekyll reads the file to be transformed into CSS later
 # only main files contain this front matter, not partials.
 ---
+$sidebar-bg-color: #44749D !default;
+$sidebar-icon-color: rgba(#000000, 0.85) !default;
+
+$body-bg: #1C1711 !default;
+$body-color: #9D9767 !default;
+$link-color: #A29E71 !default;
+
+$root-font-family: 'Raleway', sans-serif !default;
+
+
 
 @import "hydeout";
